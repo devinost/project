@@ -1,0 +1,20 @@
+*{
+  background-color: #104a8e;
+  padding: 50px;
+  margin: 0;
+}
+
+h1{
+  color: white;
+  font-family: 'helvetica neue',sans-serif;
+  font-size: 50px;
+  text-align: center;
+  line-height: 75px;
+}
+
+body{
+  color: #adadad;
+  font-family: 'helvetica neue',sans-serif;
+  font-size: 20px;
+  text-align: left;
+  line-height: 35px;
